@@ -123,10 +123,10 @@ ai-financial-advisor/
 
 ## Output 
 
-Home Page
+**Home Page**
 <img width="1914" height="1015" alt="Screenshot 2026-04-20 145738" src="https://github.com/user-attachments/assets/6d3ce5a9-cec7-4425-a463-b97dbbbd7416" />
 
-Sample Report Output
+**Sample Report Output**
 <img width="1916" height="1016" alt="Screenshot 2026-04-20 145832" src="https://github.com/user-attachments/assets/456087da-ca5b-4db8-9323-353216e82791" />
 
 ---
@@ -143,6 +143,11 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📄 License
+## 📧 Contact
 
-[MIT](LICENSE)
+**Krishna Gupta**  
+Email: guptak143600@gmail.com 
+GitHub: https://github.com/Krishna28Gupta
+
+
+
